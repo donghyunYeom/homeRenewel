@@ -3,7 +3,7 @@ import type { NextPage } from 'next'
 const Routing: NextPage = () => {
     return (
         <h1>
-            helpehelpehelpehlep
+            help page start
         </h1>
     );
 };
